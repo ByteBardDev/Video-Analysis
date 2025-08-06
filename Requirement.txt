@@ -1,0 +1,16 @@
+```text
+streamlit
+transformers
+torch
+torchaudio
+opencv-python
+ultralytics
+moviepy
+speechrecognition
+deepface
+pandas
+numpy
+matplotlib
+wordcloud
+reportlab
+plotly
